@@ -1,0 +1,26 @@
+button{
+    min-width: min-content;
+    }
+.Search{
+    font-weight: bold;
+    color: rgb(241, 6, 241);
+    background-color: seashell;
+    width: 100px;
+    border: 1.5px solid rgb(rgb(241, 6, 241), green, blue);
+    border-radius: 10px;
+    }
+.plus_symbol{
+    color: white;
+    background-color: turquoise;
+    border: transparent;
+    border-radius: 40px;
+}
+.create_account{
+    font-weight: lighter;
+    color: white;
+    background-color: royalblue;
+    width: 110px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: black 3px 3px;
+}
