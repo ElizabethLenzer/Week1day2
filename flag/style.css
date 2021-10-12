@@ -1,0 +1,22 @@
+.Horizontal{
+    height: 80px;
+    width: 800px;
+    background-color: blue;
+    display:block;
+}
+
+.LowerV{
+    height: 200px;
+    width: 80px;
+    background-color: blue;
+    display: block;
+    margin-left: 200px;
+}
+
+.UpperV{
+    height: 200px;
+    width: 80px;
+    background-color: blue;
+    margin-left: 200px;
+    display: block;
+}
